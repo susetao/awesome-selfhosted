@@ -15,16 +15,16 @@
 
  - [软件](#软件)
  - [分析](#分析)
- - [归档和数字保存 (DP)](#归档和数字保存 (DP))
- - [自动化](#automation)
- - [备份](#backup)
- - [博客平台](#blogging-platforms)
- - [预订和安排](#booking-and-scheduling)
- - [书签和链接共享](#bookmarks-and-link-sharing)
- - [日历和联系人](#calendar--contacts)
- - [通信 - 定制通信系统](#communication---custom-communication-systems)
- - [通信 - 电子邮件 - 完整解决方案](#communication---email---complete-solutions)
- - [通信 - 电子邮件 - 邮件传递代理](#communication---email---mail-delivery-agents)
+ - [归档和数字保存 (DP)](#归档和数字保存)
+ - [自动化](#自动化)
+ - [备份](#备份)
+ - [博客平台](#博客平台)
+ - [预订和安排](#预订和安排)
+ - [书签和链接共享](#签和链接共享)
+ - [日历和联系人](#日历和联系人)
+ - [通信 - 定制通信系统](#通信 - 定制通信系统)
+ - [通信 - 电子邮件 - 完整解决方案](#通信 - 电子邮件 - 完整解决方案)
+ - [通信 - 电子邮件 - 邮件传递代理](#通信 - 电子邮件 - 邮件传递代理)
  - [通信 - 电子邮件 - 邮件传输代理](#communication---email---mail-transfer-agents)
  - [通信 - 电子邮件 - 邮件列表和新闻通讯](#communication---email---mailing-lists-and-newsletters)
  - [通信 - 电子邮件 - Webmail 客户端](#communication---email---webmail-clients)
@@ -39,20 +39,20 @@
  - [内容管理系统 (CMS)](#content-management-systems-cms)
  - [数据库管理](#database-management)
  - [DNS](#dns)
- - [文档管理](#document-management)
+ - [文档管理](#文档管理)
  - [文档管理 - 电子书](#document-management---e-books)
  - [文档管理 - 机构知识库和数字图书馆软件](#document-management---institutional-repository-and-digital-library-software)
  - [文档管理 - 综合图书馆系统 (ILS)](#document-management---integrated-library-systems-ils)
  - [电子商务](#e-commerce)
  - [联合身份与身份验证](#federated-identity--authentication)
  - [Feed 阅读器](#feed-readers)
- - [文件传输与同步](#file-transfer--synchronization)
+ - [文件传输与同步](#文件传输与同步)
  - [文件传输 - 分布式文件系统](#file-transfer---distributed-filesystems)
  - [文件传输 - 对象存储与文件服务器](#file-transfer---object-storage--file-servers)
  - [文件传输 - 点对点文件共享](#file-transfer---peer-to-peer-filesharing)
  - [文件传输 - 单击和拖放上传](#file-transfer---单击--拖放上传)
  - [文件传输 - 基于 Web 的文件管理器](#file-transfer---web-based-file-managers)
- - [游戏](#games)
+ - [游戏](#游戏)
  - [游戏 - 管理实用程序和控制面板](#games---administrative-utilities--control-panels)
  - [家谱](#genealogy)
  - [群件](#groupware)
@@ -145,7 +145,7 @@ _相关：[数据库管理](#database-management)、[个人仪表板](#personal-
 - [Swetrix](https://swetrix.com/) - 终极开源网络分析，满足您的所有需求。 ([演示](https://swetrix.com/projects/STEzHcB1rALV)、[源代码](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
 - [Umami](https://umami.is/) - 简单、快速、注重隐私的 Google Analytics 替代方案。 ([演示](https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is)、[源代码](https://github.com/umami-software/umami)) `MIT` `Nodejs/Docker`
 
-### 归档和数字保存（DP）
+### 归档和数字保存
 
 **[`^ 返回顶部 ^`](#精选的自托管服务)**
 
@@ -1100,7 +1100,7 @@ _相关：[笔记记录和编辑器](#note-taking--editors)、[Wikis](#wikis)、
 - [Manyfold](https://manyfold.app) - 适用于 3D 打印文件的数字资产管理器；STL、OBJ、3MF 等。 ([源代码](https://github.com/manyfold3d/manyfold)) `MIT` `Docker`
 - [Octoprint](https://octoprint.org/) - 用于控制消费者 3D 打印机的简洁 Web 界面。 ([源代码](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
-### 地图和全球定位系统 (GPS)
+### 地图和全球定位系统
 
 **[`^ 返回顶部 ^`](#精选的自托管服务)**
 
