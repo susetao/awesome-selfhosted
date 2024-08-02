@@ -13,9 +13,9 @@
 
 ## 目录
 
- - [软件](#software)
- - [分析](#analytics)
- - [归档和数字保存 (DP)](#archiving-and-digital-preservation-dp)
+ - [软件](#软件)
+ - [分析](#分析)
+ - [归档和数字保存 (DP)](#归档和数字保存 (DP))
  - [自动化](#automation)
  - [备份](#backup)
  - [博客平台](#blogging-platforms)
