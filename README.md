@@ -662,6 +662,7 @@ _另请参阅：[dbdb.io - 数据库的数据库](https://dbdb.io/)_
 - [Directus](https://directus.io/) - 适用于您的 SQL 数据库的即时应用程序和 API。Directus 使用面向开发人员的实时 GraphQL+REST API 包装您的新数据库或现有 SQL 数据库，并为非技术用户提供直观的管理应用程序。 ([源代码](https://github.com/directus/directus)) `GPL-3.0` `Nodejs/Docker`
 - [Evidence](https://evidence.dev) - Evidence 是一个基于代码的 BI 工具。使用 SQL 和 markdown 编写报告并将其呈现为网站。 ([源代码](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
 - [Limbas](https://www.limbas.com/en/) - Limbas 是一个用于创建数据库驱动的业务应用程序的数据库框架。作为图形数据库前端，它能够高效处理数据库存并灵活开发舒适的数据库应用程序。 ([源代码](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
+- [QueryGPT](https://github.com/MKY508/QueryGPT) - 自然语言数据库查询系统。让非技术人员也能用中文查询数据库，比如问"上个月销售最好的产品是什么"，系统会自动执行查询并生成图表。基于 OpenInterpreter，支持 MySQL、PostgreSQL 等数据库。 ([源代码](https://github.com/MKY508/QueryGPT)) `MIT` `Python/Docker`
 - [Mathesar](https://mathesar.org/) - 一个直观的用户界面，用于协作管理数据，适用于所有技术水平的用户。基于 Postgres 构建 - 连接现有数据库或设置新数据库。 ([演示](https://demo.mathesar.org/)、[源代码](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
 - [MindsDB](https://mindsdb.com/) - MindsDB 是一个针对现有数据库的开源自托管 AI 层，可让您使用标准查询轻松开发、训练和部署最先进的机器学习模型。 ([源代码](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
 - [NocoDB](https://www.nocodb.com/) - 无代码平台，可将任何数据库转换为智能电子表格（Airtable 或 Smartsheet 的替代品）。 ([源代码](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
